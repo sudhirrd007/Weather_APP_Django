@@ -1,1 +1,3 @@
 weather/weather/__pycache__/
+weather/app/__pycache__/
+weather/app/migrations
